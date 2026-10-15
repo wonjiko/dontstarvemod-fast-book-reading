@@ -18,6 +18,8 @@ Checked against the installed DST game scripts, build **756039**. An in-game mul
 
 License: MIT.
 
+The mod menu icon is in `modicon.tex`/`modicon.xml`; its editable PNG source is in `assets/modicon-source.png`.
+
 ---
 
 # 빠른 책 읽기
@@ -39,3 +41,5 @@ License: MIT.
 설치된 DST 게임 스크립트 **빌드 756039**와 대조했습니다. 창작마당 등록 전 게임 내 멀티플레이 테스트가 필요합니다. 향후 등록용 문구는 [창작마당 설명](WORKSHOP_DESCRIPTION.md)에 있습니다. 아직 Steam 창작마당에는 등록하지 않았습니다.
 
 라이선스: MIT.
+
+모드 메뉴 아이콘은 `modicon.tex`/`modicon.xml`이며 PNG 원본은 `assets/modicon-source.png`에 있습니다.

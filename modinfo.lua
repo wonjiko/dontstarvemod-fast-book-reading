@@ -1,7 +1,9 @@
 name = "Fast Book Reading"
 description = "Read books faster while keeping the animation and effect in sync. / 책 읽기 애니메이션과 효과를 함께 빠르게 합니다."
 author = "wonjiko"
-version = "0.1.0"
+version = "0.1.1"
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
 
 api_version = 10
 dst_compatible = true
