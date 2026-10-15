@@ -1,0 +1,6 @@
+# Local game and editor files
+workshop-*.json
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
